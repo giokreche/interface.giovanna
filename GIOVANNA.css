@@ -1,0 +1,76 @@
+
+ h1 a { 
+    color: #c9ab00;
+    text-decoration: none;
+    }
+    
+    .place {
+    color: #000000;
+    background-color: #b78c56;
+    border-color: #f3a514e5 #ca9e0ee1 #ca9e0ee1 #ca9e0ee1;
+    border: 1px solid #f2f5f5;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 20px;
+    }
+
+    .place h2 {
+        border-bottom: 1px dashed #000000;
+        margin: 0;
+    }
+    .place a {
+        color: #ffffff;
+        font-family: "Italic";
+        font-weight: bold;
+        }
+
+body {
+    background-color: #741102;
+    font-family: "Garamond" sans-serif;
+    line-height: 1.5;
+    }
+    
+.container {
+    margin: 0 auto;
+    width: 1360px;
+}
+
+.place img {
+    border: 1px solid #f0f0ee;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 450px;
+    }
+    .clear{
+        clear: both;
+    }
+        .places {
+            float: left;
+            width: 860px;
+            }
+    
+    .sidenote {
+        background-color: #b78c56;
+        border: 1px solid #C9BC8F;
+        float: right;
+        padding: 10px;
+        width: 360px;
+        margin-bottom: 20px;
+        }
+        .sidenote h3 {
+        font-size: 15px;
+        margin-top: 0;
+        }
+        .sidenote ol {
+        font-size: 15px;
+        }
+
+    .footer {
+        font-size: 15px;
+        text-align: center;
+        color: #ffffff;
+        font-family: "Garamond"
+        }
+
+       
